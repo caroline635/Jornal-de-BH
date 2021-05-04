@@ -104,16 +104,9 @@ main{
     
 }
 
-a:link{
-    color:red;
-    text-decoration:none;
-    font-family: sans-serif;
-}
-a:visited{
-    color: rgb(26, 80, 150);
+
     
-    
-}
+
 
 a:hover{
     text-decoration: underline;
